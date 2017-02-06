@@ -1,0 +1,83 @@
+* {
+  font-family: fantasy;
+  color: ghostwhite;
+}
+
+body {
+  background: linear-gradient(#000, #444);
+  min-height: 100%;
+  margin: 0;
+}
+
+h1{
+  margin: 0;
+  padding-top: 2em;
+}
+
+h6 {
+  padding-bottom: 20px;
+}
+
+a {
+  color: #c3c352;
+}
+
+a:hover {
+  color: #c3c352;
+  opacity: .5;
+}
+
+#wrapper {
+  width: 90%;
+  margin: auto;
+  min-height: 100vh;
+}
+
+#title {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 70px;
+  font-weight: 800;
+  font-size: 4.5rem;
+  text-shadow: 3px 3px #444;
+}
+
+#subtitle {
+  text-align: center;
+  margin-top: -50px;
+  font-weight: 100;
+  text-shadow: 1px 1px #444;
+
+}
+
+#hero-image {
+  max-width: 100%;
+  max-height: 100%;
+  margin: auto;
+  box-shadow: 10px 10px 10px -3px #211e21;
+  border-radius: 5px;
+}
+
+figcaption {
+  text-align: center;
+  margin-top: 10px;
+  font-weight: 100;
+  margin-bottom: 20px;
+}
+
+#bio {
+  width: 80%;
+  margin:  80px auto 0 auto;
+  text-align: center;
+}
+
+.timeline {
+  margin-bottom: 100px;
+}
+
+.footer {
+  height: 80px; 
+  border-top: solid 1px black;
+  position: sticky;
+  background-color: #444;
+}
