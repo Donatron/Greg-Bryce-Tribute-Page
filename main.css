@@ -76,8 +76,10 @@ figcaption {
 }
 
 .footer {
-  height: 80px; 
+  height: 80px;
   border-top: solid 1px black;
-  position: sticky;
-  background-color: #444;
+}
+
+.footer h3, p {
+  color: #444;
 }
