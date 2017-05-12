@@ -1,0 +1,24 @@
+{
+  "name": "greg_bryce",
+  "version": "1.0.0",
+  "description": "Tribute website to Newcastle musician Greg Bryce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Donatron/Greg-Bryce-Tribute-Page.git"
+  },
+  "author": "Don Macarthur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Donatron/Greg-Bryce-Tribute-Page/issues"
+  },
+  "homepage": "https://github.com/Donatron/Greg-Bryce-Tribute-Page#readme",
+  "devDependencies": {
+    "autoprefixer": "^7.0.1",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.0",
+  }
+}
