@@ -86,6 +86,10 @@ figcaption {
   margin-bottom: 75px;
 }
 
+.timeline ul {
+  text-align: left;
+}
+
 .footer {
   height: 80px;
   border-top: solid 1px black;
